@@ -12,4 +12,4 @@ What trends can be identified in user streaming habits over time?
 Which artists maintain consistent listener engagement across multiple years?
 How do listening patterns differ between morning, afternoon, evening, and night?
 
-!(image alt)(https://github.com/ochepomarygold/my-spotify/blob/22b9e20a4924304a90f55d94f74cf6fae58afecd/Spotify%20dashboard%2023_11_2025%2015_47_21%20(1).png)
+![image alt](https://github.com/ochepomarygold/my-spotify/blob/22b9e20a4924304a90f55d94f74cf6fae58afecd/Spotify%20dashboard%2023_11_2025%2015_47_21%20(1).png)
